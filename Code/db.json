@@ -1,0 +1,26 @@
+{
+  "productList": [
+    {
+      "stuffName": "Hor Kimseur",
+      "stuffGender": "Male",
+      "stuffRole": "software engineer",
+      "id": 1
+    },
+    {
+      "stuffName": "Dytith Panha",
+      "stuffGender": "Male",
+      "stuffRole": "Cyber Security",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
